@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">VivuDaLat</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_title">5 SIGHTS IN DALAT</string>
+    <string name="btnExplore">EXPLORE NOW </string>
+
+    <string name="firstplace">Núi Langbiang</string>
+    <string name="secondplace">Thung lũng tình yêu</string>
+    <string name="thirdplace">Thiền viện Trúc Lâm</string>
+    <string name="fourthplace">Hồ Tuyền Lâm</string>
+    <string name="fifthplace">Đồng hoa hướng dương</string>
+
+    <string name="firstplaceex">Nơi đây là thu hút rất nhiều du khách trong và ngoài nước đến dã ngoại. Núi Langbiang có 2 ngọn núi, người dân đặt tên 2 ngọn núi là “Núi Ông và Núi Bà”, cách trung tâm thành phố Đà Lạt 12 km, núi thuộc địa phận huyện Lạc Dương. Đỉnh Langbiang nằm ở độ cao 2.167 m so với mặt biển. Langbiang còn được ví như “nóc nhà” của Đà Lạt, và là điểm tham quan du lịch hấp dẫn của thành phố Đà Lạt.</string>
+    <string name="secondplaceex">Đây là một trong những thắng cảnh thơ mộng nhất tại Đà Lạt, cách trung tâm thành phố khoảng 5 km về phía Bắc. Thung lũng có những thắng cảnh thơ mộng và nhiều hoạt động, trò chơi rất thú vị.</string>
+    <string name="thirdplaceex">Thiền Viện Trúc Lâm là thiền viện thuộc thiền phái Trúc Lâm Yên Tử. Thiền viện cách trung tâm thành phố Đà Lạt 5 km, nằm trên núi Phụng Hoàng, phía trên Hồ Tuyền Lâm. Đây không chỉ là thiền viện lớn nhất Lâm Đồng, mà còn là điểm tham quan và chiêm bái của nhiều du khách trong và ngoài nước.</string>
+    <string name="fourthplaceex">Là hồ nước ngọt rộng nhất Ðà Lạt, nằm cách trung tâm thành phố Đà Lạt 7 km và cách thác Datanla 2km. Đây được xem là khu phức hợp tập trung nhiều cảnh quan đẹp và dịch vụ du lịch phong phú. Hồ có nhiều ốc đảo nhỏ và được bao bọc bởi khu rừng thông. Các bạn có thể đi cáp treo qua đồi Rôbin, ngắm cảnh rừng thông, hồ Tuyền Lâm, núi Phượng Hoàng từ trên cao.</string>
+    <string name="fifthplaceex">Lập đông, không chỉ có cánh đồng hoa Hướng Dương bất tận nổi tiếng gần xa ở Nghệ An, mà ngoại ô Đà Lạt những năm gần đây, hoa Hướng Dương cũng được trồng rất nhiều thành những đồng hoa mênh mông, xa tít chân đồi. Xen lẫn cánh đồng hoa Hướng Dương xinh đẹp là cánh đồng cỏ bạc ngàn cho bò sữa. </string>
+
+    <array name="imgs">
+        <item>@drawable/langbiang</item>
+        <item>@drawable/lovevalley</item>
+        <item>@drawable/truclam</item>
+        <item>@drawable/tuyenlam</item>
+        <item>@drawable/huongduong</item>
+    </array>
+
+    <string-array name="places">
+        <item>@string/firstplace</item>
+        <item>@string/secondplace</item>
+        <item>@string/thirdplace</item>
+        <item>@string/fourthplace</item>
+        <item>@string/fifthplace</item>
+    </string-array>
+
+    <string-array name="place_explains">
+        <item>@string/firstplaceex</item>
+        <item>@string/secondplaceex</item>
+        <item>@string/thirdplaceex</item>
+        <item>@string/fourthplaceex</item>
+        <item>@string/fifthplaceex</item>
+    </string-array>
+
+
+</resources>
